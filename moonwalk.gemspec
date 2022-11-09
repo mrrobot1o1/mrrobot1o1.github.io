@@ -3,11 +3,11 @@
 Gem::Specification.new do |spec|
   spec.name          = "moonwalk"
   spec.version       = "0.1.3"
-  spec.authors       = ["Abhinav Saxena"]
-  spec.email         = ["abhinav061@gmail.com"]
+  spec.authors       = ["Vikas Yadav"]
+  spec.email         = ["sudovikasyadav@gmail.com"]
 
   spec.summary       = "A fast and minimalist Jekyll theme with clean dark mode."
-  spec.homepage      = "https://github.com/abhinavs/moonwalk"
+  spec.homepage      = "https://github.com/mrrobot1o1"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r!^(assets|_layouts|_includes|_sass|LICENSE|README|_config\.yml)!i) }
