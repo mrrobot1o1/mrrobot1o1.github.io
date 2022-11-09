@@ -13,7 +13,7 @@ twitter:
     card: summary_large_image
 
 #theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
-remote_theme: abhinavs/moonwalk
+remote_theme: mrrobot1o1/mrrobot1o1.github.io
 
 theme_config:
   appearance: "dark" # can be "light", "dark" or "auto"
@@ -39,7 +39,7 @@ theme_config:
     title_old_projects: Old Projects
 
 soopr:
-  publish_token: "" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options
+  publish_token: "pt_09c7730174ee26ec3297d367d3f6b1e5" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options
 
 highlighter: rouge
 
